@@ -1,5 +1,3 @@
-# CS-320-16593-M01-Software-Test-Automation-QA
-
 # **CS 320 Portfolio Submission - Software Testing and Quality Assurance**
 
 ## **Overview**
